@@ -1,4 +1,4 @@
 # Calefficient
 Calefficient resources
 
-This will be the main page of calefficient
+All the webpages related to Calefficient are served from /docs
