@@ -30,7 +30,7 @@ Schedule and log your activities in your Google Calendar, Calefficeint will hand
 ## Benefits
 * Life can be overwhelming, never forget to allocate time to the most important things in your life
 * Make better decisions. Every moment, consciously or unconsciosly, you choose how you spend your time. Data-driven descisions are scientifically proven to result in better outcomes for you
-* Filter your commitments, always know what you are giving up when taking a new commitment
+* Filter your commitments, always know what you are giving up when taking on a new commitment
 * Know exactly how you spend your time, plan accordingly
 * Integration with Google Calendar
     * Use a familiar and simple tool
@@ -42,16 +42,17 @@ Schedule and log your activities in your Google Calendar, Calefficeint will hand
 ## Features
 * Week and month statistics
 * Charts for spent and allocated activities
-* Analysis for multiples calendars
-* Automatic updated of the current week statistics sheet
+* Analysis for multiple calendars
+* Automatic update of the current week statistics sheet
 * Statistics for arbitrary start and end dates
 * Tags: analysis for event categories within a single calendar
-* Define weekly or monthly time targets per calendar or tag
-* Do you multi-task? Define priorities for statistics
+* Calendar renaming and grouping
+* Define weekly or monthly time targets per calendar or tag and monitor your progress
+* Do you multi-task? Define priorities for statistics and account for the most important activity only
 * Preserve Google Calendar colors in pie charts
-* Configure week start on Sunday
+* Week start configurable to Monday or Sunday
 * Adjust charts to screen size
-* Per sheet analysis settings
+* Flexible to your life changes: analysis settings can be configured per sheet
 * Global analysis settings
 * Load analysis settings to or from sheet
 
