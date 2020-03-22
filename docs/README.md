@@ -56,7 +56,7 @@ Schedule and log your activities in your Google Calendar, Calefficeint will hand
 * Global analysis settings
 * Load analysis settings to or from sheet
 
-Made with <3 by a theoretical physicist and a quantum engineer.
+Made with ❤ by a theoretical physicist and a quantum engineer.
 
 ## Terms of Service and Privacy Policy
 
