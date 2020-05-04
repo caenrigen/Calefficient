@@ -1,4 +1,4 @@
 # Calefficient
-Calefficient resources
+Priorities and time management companion
 
-All the webpages related to Calefficient are served from /docs
+If you are looking for Calefficient website please visit [http://caenrigen.tech/Calefficient]

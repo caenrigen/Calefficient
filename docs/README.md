@@ -60,6 +60,10 @@ Schedule and log your activities in your Google Calendar, Calefficient will hand
 
 Made with ❤ by a theoretical physicist and a quantum engineer.
 
+## Contact
+
+Feel free to drop us a line at `calefficient.service {the usual email symbol} gmail.com`.
+
 ## Terms of Service and Privacy Policy
 
 By using the Calefficient Add-on and Website you agree with our [Terms of Service] and [Privacy Policy].
