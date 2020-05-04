@@ -3,7 +3,7 @@ Calefficient App Homepage
 
 This is the homepage of Calefficient a Google Spreadsheets Add-on.
 
-**Last Update**: 2020-03-22
+**Last Update**: 2020-05-04
 
 We are working on the alpha release, stay tuned. When released it will be available in the [G Suite Marketplace].
 
