@@ -26,12 +26,12 @@ Calefficient allows you to know how you spent your time. Allocate time to the mo
 
 Calefficient analyzes the events in your Google Calendars and generates statistics sheets and charts on how you spent your time for a given period, e.g. current week or last month.
 
-Schedule and log your activities in your Google Calendar, Calefficeint will handle the rest :)
+Schedule and log your activities in your Google Calendar, Calefficient will handle the rest :)
 
 <!-- ## What are the most important benefits for the user? -->
 ## Benefits
 * Life can be overwhelming, never forget to allocate time to the most important things in your life
-* Make better decisions. Every moment, consciously or unconsciosly, you choose how you spend your time. Data-driven descisions are scientifically proven to result in better outcomes for you
+* Make better decisions. Every moment, consciously or unconsciously, you choose how you spend your time. Data-driven decisions are scientifically proven to result in better outcomes for you
 * Filter your commitments, always know what you are giving up when taking on a new commitment
 * Know exactly how you spend your time, plan accordingly
 * Integration with Google Calendar
