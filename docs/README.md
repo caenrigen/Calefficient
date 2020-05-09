@@ -1,19 +1,12 @@
-<p align="center">
+<!-- <p align="center">
   <img width="200" height="200" src="Logo-512.png">
-</p>
-
-# Calefficient
-Calefficient App Homepage
-
-This is the homepage of Calefficient a Google Spreadsheets Add-on.
+</p> -->
 
 **Last Update**: 2020-05-04
 
 We are working on the alpha release, stay tuned. When released it will be available in the [G Suite Marketplace].
 
-Take a look at how to get started, tips and tricks in our [Wiki].
-
-# Application description
+# Calefficient for Google Spreadsheets
 
 <!-- Treat the first 3 sentences as an excellent selling opportunity. -->
 <!-- Focus on conveying the value to the users -->
@@ -26,14 +19,16 @@ Nature made time and energy are our most scarce resources. We believe that every
 
 Calefficient allows you to know how you spent your time. Allocate time to the most important things in your life and Calefficient will chart your time balance at any moment of the week.
 
-## How it works?
+# How it works?
 
 Calefficient analyzes the events in your Google Calendars and generates statistics sheets and charts on how you spent your time for a given period, e.g. current week or last month.
 
 Schedule and log your activities in your Google Calendar, Calefficient will handle the rest :)
 
+Take a look at how to get started, tips and tricks in our [Wiki].
+
 <!-- ## What are the most important benefits for the user? -->
-## Benefits
+# Benefits
 * Life can be overwhelming, never forget to allocate time to the most important things in your life
 * Make better decisions. Every moment, consciously or unconsciously, you choose how you spend your time. Data-driven decisions are scientifically proven to result in better outcomes for you
 * Filter your commitments, always know what you are giving up when taking on a new commitment
@@ -45,7 +40,7 @@ Schedule and log your activities in your Google Calendar, Calefficient will hand
     * Sync with your favorite calendar app
 
 <!-- ## What are the most important features? -->
-## Features
+# Features
 * Week and month statistics
 * Charts for spent and allocated activities
 * Analysis for multiple calendars
@@ -64,11 +59,11 @@ Schedule and log your activities in your Google Calendar, Calefficient will hand
 
 Made with ❤ by a theoretical physicist and a quantum engineer.
 
-## Contact
+# Contact
 
 Feel free to drop us a line at `calefficient.service {the usual email symbol} gmail.com`.
 
-## Terms of Service and Privacy Policy
+# Terms of Service and Privacy Policy
 
 By using the Calefficient Add-on and Website you agree with our [Terms of Service] and [Privacy Policy].
 
