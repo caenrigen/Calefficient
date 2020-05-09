@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img width="200" height="200" src="Logo-512.png">
-</p> -->
+<p align="center">
+  <img width="180" height="180" src="Logo-512.png">
+</p>
 
 **Last Update**: 2020-05-04
 
