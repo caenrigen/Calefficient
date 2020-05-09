@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="400" height="400" src="Logo-512.png">
+</p>
+
 # Calefficient
 Calefficient App Homepage
 
