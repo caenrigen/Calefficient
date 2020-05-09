@@ -63,7 +63,7 @@ Made with ❤ by a theoretical physicist and a quantum engineer.
 
 Feel free to drop us a line at `calefficient.service {the usual email symbol} gmail.com`.
 
-# Terms of Service and Privacy Policy
+## Terms of Service and Privacy Policy
 
 By using the Calefficient Add-on and Website you agree with our [Terms of Service] and [Privacy Policy].
 
