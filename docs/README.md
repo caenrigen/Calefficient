@@ -6,7 +6,7 @@
 
 We are working on the alpha release, stay tuned. When released it will be available in the [G Suite Marketplace].
 
-# Calefficient for Google Spreadsheets
+# Calefficient
 
 <!-- Treat the first 3 sentences as an excellent selling opportunity. -->
 <!-- Focus on conveying the value to the users -->
@@ -21,7 +21,7 @@ Calefficient allows you to know how you spent your time. Allocate time to the mo
 
 # How it works?
 
-Calefficient analyzes the events in your Google Calendars and generates statistics sheets and charts on how you spent your time for a given period, e.g. current week or last month.
+Calefficient is a Google Spreadsheet Add-on. It analyzes the events in your Google Calendars and generates statistics sheets and charts on how you spent your time for a given period, e.g. current week or last month.
 
 Schedule and log your activities in your Google Calendar, Calefficient will handle the rest :)
 
