@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" src="Logo-512.png">
+  <img width="250" height="250" src="Logo-512.png">
 </p>
 
 # Calefficient
