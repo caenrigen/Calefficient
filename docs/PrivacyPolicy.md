@@ -1,8 +1,8 @@
 # Calefficient Privacy Policy
 
-Effective: March 26, 2020
+Effective: March 26, 2021
 
-Last update: March 26, 2020
+Last update: March 26, 2021
 
 Our privacy policy is short and transparent.
 
