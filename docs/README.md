@@ -2,9 +2,11 @@
   <img width="180" height="180" src="Logo-512.png">
 </p>
 
-**Last Update**: 2020-05-04
+**Last Update**: 2020-06-05
 
-We are working on the alpha release, stay tuned. When released it will be available in the [G Suite Marketplace].
+Calefficient is out!!!
+
+Catch the next 🚀 and grab it in the [G Suite Marketplace]. 3, ... 2, ... 1! And you are launched, your time management will never be the same again, enjoy!
 
 # Calefficient
 
@@ -67,7 +69,7 @@ Feel free to drop us a line at `calefficient.service {the usual email symbol} gm
 
 By using the Calefficient Add-on and Website you agree with our [Terms of Service] and [Privacy Policy].
 
-[G Suite Marketplace]: https://gsuite.google.com/marketplace/
+[G Suite Marketplace]: https://gsuite.google.com/marketplace/app/calefficient/303812400731
 [Wiki]: http://caenrigen.tech/Calefficient/Wiki
 [Terms of Service]: http://caenrigen.tech/Calefficient/ToS
 [Privacy Policy]: http://caenrigen.tech/Calefficient/PrivacyPolicy
